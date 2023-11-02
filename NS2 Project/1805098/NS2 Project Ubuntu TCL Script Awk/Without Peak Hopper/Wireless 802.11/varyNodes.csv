@@ -1,0 +1,6 @@
+Area Size, Number of Nodes, Number of flows, Packet Per Sec, Speed, Sent Packets, Dropped Packets, Received Packets, Network throughput, End-to-end Delay, Packet delivery ratio, Packet drop ratio, Energy Consumption
+500 , 20 , 20 , 200 , 10 , 1026 , 19 , 1007 , 164434 , 0.0210853 , 0.981481 , 0.0185185 , 342.549
+500 , 40 , 20 , 200 , 10 , 1036 , 21 , 1015 , 165763 , 0.0371318 , 0.97973 , 0.0202703 , 916.529
+500 , 60 , 20 , 200 , 10 , 1060 , 40 , 1019 , 166266 , 0.0546617 , 0.961321 , 0.0377358 , 1402.85
+500 , 80 , 20 , 200 , 10 , 1106 , 58 , 1048 , 170279 , 0.188028 , 0.947559 , 0.0524412 , 2380.39
+500 , 100 , 20 , 200 , 10 , 1083 , 49 , 1026 , 166452 , 0.252175 , 0.947368 , 0.0452447 , 2739.81
